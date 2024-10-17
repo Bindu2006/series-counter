@@ -1,2 +1,2 @@
-# series-counter
-Just counts the series
+#ReadME
+####I am Bindu ###
